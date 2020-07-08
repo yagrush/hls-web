@@ -6,7 +6,7 @@
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
     var video = document.getElementById('video');
-    var videoSrc = 'https://cf.yagrush.net/all-tears.m3u8'; //**hls**
+    var videoSrc = 'https://cf.yagrush.net/bipbopall.m3u8'; //**hls**
     if (Hls.isSupported()) {
         var config = {
             debug: true,
